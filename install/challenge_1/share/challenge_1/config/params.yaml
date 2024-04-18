@@ -1,0 +1,38 @@
+controller_node:
+  ros__parameters:
+    path1:
+      wp1_x: -70
+      wp1_y: 70
+      wp2_x: 70
+      wp2_y: 70
+      wp3_x: -70
+      wp3_y: -70 
+      wp4_x: 70 
+      wp4_y: -70
+    path2:
+      wp1_x: 0
+      wp1_y: 60
+      wp2_x: 60
+      wp2_y: 0
+      wp3_x: 0 
+      wp3_y: -60
+      wp4_x: -60
+      wp4_y: 0
+    path3:
+      wp1_x: 0
+      wp1_y: -70
+      wp2_x: 70
+      wp2_y: -70
+      wp3_x: -70
+      wp3_y: -70 
+      wp4_x: -70
+      wp4_y: 10
+    path4:
+      wp1_x: 80
+      wp1_y: 80
+      wp2_x: 120
+      wp2_y: -80
+      wp3_x: -80
+      wp3_y: -120
+      wp4_x: -40
+      wp4_y: 80
